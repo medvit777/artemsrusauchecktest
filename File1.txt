@@ -1,3 +1,4 @@
 New Git class Artem
 
-update info
+update info new
+777
